@@ -18,3 +18,5 @@ i
 9src/main/java/org/parkminsu/spring/animal/object/Cat.java,d/1/d1e94c35bd10df5ac5d9c37667ce672d2bbc8522
 i
 9src/main/java/org/parkminsu/spring/config/JavaConfig.java,b/4/b4250cf01c2cf4ed6217b1ff3eb4015941ec4844
+i
+9src/main/java/org/parkminsu/spring/config/BeanConfig.java,6/4/6421f862682dd649d9883c31332d2199ad313133
