@@ -1,2 +1,4 @@
-package org.parkminsu.spring.config;public class JavaConfig {
+package org.parkminsu.spring.config;
+
+public class JavaConfig {
 }

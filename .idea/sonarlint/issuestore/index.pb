@@ -16,3 +16,5 @@ i
 9src/main/java/org/parkminsu/spring/animal/object/Cay.java,a/2/a2069dff82c9c0830e4446268ea1918ed71b95c2
 i
 9src/main/java/org/parkminsu/spring/animal/object/Cat.java,d/1/d1e94c35bd10df5ac5d9c37667ce672d2bbc8522
+i
+9src/main/java/org/parkminsu/spring/config/JavaConfig.java,b/4/b4250cf01c2cf4ed6217b1ff3eb4015941ec4844
