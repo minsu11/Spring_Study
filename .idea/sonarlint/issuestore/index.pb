@@ -20,3 +20,5 @@ i
 9src/main/java/org/parkminsu/spring/config/JavaConfig.java,b/4/b4250cf01c2cf4ed6217b1ff3eb4015941ec4844
 i
 9src/main/java/org/parkminsu/spring/config/BeanConfig.java,6/4/6421f862682dd649d9883c31332d2199ad313133
+v
+Fsrc/main/java/org/parkminsu/spring/annotation/AnimalClassfication.java,1/1/1159eb492a4ff96d197196132c5ccedd2f53474c
